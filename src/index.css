@@ -43,6 +43,9 @@ code {
   border-radius: 3px;
 }
 .cardsContainer .cards ul button:hover {
+  transform: scale(1.1);
+}
+.cardsContainer .cards ul button:hover {
   box-shadow: 6px 4px 2px 2px rgba(0, 0, 0, 0.3);
 }
 .inputsHolder {
